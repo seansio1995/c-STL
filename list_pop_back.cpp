@@ -21,6 +21,6 @@ int main(){
   }
 
   cout<<"The total sum is "<<sum<<endl;
-
+  cout<<"test"<<endl;
   return 0;
 }
